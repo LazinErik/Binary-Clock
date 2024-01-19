@@ -1,0 +1,7 @@
+D:\Facultate\Programare\Binary clock\Binary clock\bin\Debug\Binary clock.exe.config
+D:\Facultate\Programare\Binary clock\Binary clock\bin\Debug\Binary clock.exe
+D:\Facultate\Programare\Binary clock\Binary clock\bin\Debug\Binary clock.pdb
+D:\Facultate\Programare\Binary clock\Binary clock\obj\Debug\Binary clock.csproj.AssemblyReference.cache
+D:\Facultate\Programare\Binary clock\Binary clock\obj\Debug\Binary clock.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\Binary clock\Binary clock\obj\Debug\Binary clock.exe
+D:\Facultate\Programare\Binary clock\Binary clock\obj\Debug\Binary clock.pdb
